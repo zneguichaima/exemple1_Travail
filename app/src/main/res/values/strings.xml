@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">travail_Exemple1</string>
+    <string name="textview">TextView</string>
+    <string name="item_default_name">name</string>
+    <string name="item_default_description">description</string>
+
+</resources>
